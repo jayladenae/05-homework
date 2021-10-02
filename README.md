@@ -8,6 +8,8 @@ time-blocks are color coded for representation of past, present, and futer tasks
 
 ![Screenshot of website](screencapture-file-Users-jayladenae-Desktop-Coding-Bootcamp-homework-05-homework-index-html-2021-10-01-19_45_29.png)
 
+-This screenshot was taken at around 8 PM, so all of the text areas background colors are gray.-
+
 [Click me to see the deployed webiste](https://jayladenae.github.io/05-homework/)
 
 ### How to use
