@@ -6,7 +6,7 @@
 This is a simple color coded work day planner where you can plan your work day. There are time-blocks from 9:00 AM to 5:00 PM for typical work hours. These 
 time-blocks are color coded for representation of past, present, and futer tasks. Past task's background colors are gray, present task's background colors are red, and future task's background colors are green. 
 
-![Screenshot of website][screencapture-file-Users-jayladenae-Desktop-Coding-Bootcamp-homework-05-homework-index-html-2021-10-01-19_45_29.png]
+![Screenshot of website](screencapture-file-Users-jayladenae-Desktop-Coding-Bootcamp-homework-05-homework-index-html-2021-10-01-19_45_29.png)
 
 ### How to use
 
