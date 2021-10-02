@@ -46,12 +46,13 @@ init();
 // function to pass thru each textare to compare time so correc color is present
 function colorCode() {
     $('textarea').each(function () {
+        console.log($(this).attr('value'));
         if (moment().hour() == $(this).attr('value')) {
-            $('textarea').addClass('present');
-        } else if (moment().hour() < $(this).attr('value'))
-            $('textarea').addClass('future');
-        else {
-            $('textarea').addClass('past');
+            $(this).addClass('present');
+        } if (moment().hour() < $(this).attr('value'))
+            $(this).addClass('future');
+        if (moment().hour() > $(this).attr('value')) {
+            $(this).addClass('past');
         }
     })
 }
