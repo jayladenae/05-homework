@@ -14,7 +14,7 @@ time-blocks are color coded for representation of past, present, and futer tasks
 
 ### How to use
 
-When you want to enter a task, click on the middle empty column with your curser next to the time you would like to complete given task and you will see a black border around the text area you selected. In that text area you may enter as many tasks as you'd like, after entering your task(s), in the same row to the right, you will find a "Save" button, click that button with your curser to SAVE the task(s) you entered. You can leave or close the page and your task(s) will still be there. To remove tasks you can click on the same text area that the task you would like to remove is in, delete the text with your 'delete' button on your keyboard and click the "Save" button to save your now empty time-block.
+When you want to enter a task, click on the middle empty column with your curser next to the time you would like to complete given task and you will see a black border around the text area you selected. In that text area you may enter as many tasks as you'd like, after entering your task(s), in the same row, to the right, you will find a "Save" button, click that button with your curser to SAVE the task(s) you entered. You can leave or close the page and your task(s) will still be there. To remove tasks you can click on the same text area that the task you would like to remove is in, delete the text with your 'delete' button on your keyboard and click the "Save" button to save your now empty time-block.
 
 #### Credits
 Ismeny Saguilan
